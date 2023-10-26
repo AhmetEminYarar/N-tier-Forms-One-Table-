@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\View_Layer.props" />
+</Project>

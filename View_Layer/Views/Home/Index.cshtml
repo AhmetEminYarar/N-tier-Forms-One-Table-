@@ -1,0 +1,59 @@
+﻿@using Model_Layer.Entities;
+@model List<Customer>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+
+<div class="text-center" >
+    <form method="post" asp-action="Index" asp-controller="Home">
+        <input type="text" name="FirstName" placeholder="FirstName"/>
+        <input type="text" name="LastName" placeholder="LastName"/>
+        <input type="text" name="Gender" placeholder="Gender"/>
+        <input type="text" name="YearOfBirth" placeholder="Date" />
+        <input type="text" name="StreetAddress" placeholder="StreetAddress" />
+        <input type="text" name="PostalCode" placeholder="PostalCode" />
+        <input type="text" name="City" placeholder="City" />
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+<div class="container-fluid px-4">
+    <div class="card mb-4 mt-4">
+        <div class="card-body">
+            <table id="tblAttemdamce" class="table table-striped display nowrap" style="width:100%">
+                <thead>
+                    <tr>
+                        <td>FirstName</td>
+                        <td>LastName</td>
+                        <td>Gender</td>
+                        <td>YearOfBirth</td>
+                        <td>StreetAddress</td>
+                        <td>PostalCode</td>
+                        <td>City</td>
+                    </tr>
+                </thead>
+               
+                <tbody>
+
+                    @{
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.FirstName</td>
+                                <td>@item.LastName</td>
+                                <td>@item.Gender</td>
+                                <td>@item.YearOfBirth</td>
+                                <td>@item.StreetAddress</td>
+                                <td>@item.PostalCode</td>
+                                <td>@item.City</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+       
+

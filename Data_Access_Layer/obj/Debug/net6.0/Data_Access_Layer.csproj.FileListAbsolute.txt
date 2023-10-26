@@ -1,0 +1,17 @@
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CopyComplete
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Data_Access_Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll

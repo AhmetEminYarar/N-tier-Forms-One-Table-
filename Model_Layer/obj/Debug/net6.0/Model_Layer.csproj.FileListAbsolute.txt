@@ -1,0 +1,11 @@
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\bin\Debug\net6.0\Model_Layer.deps.json
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfoInputs.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfo.cs
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\refint\Model_Layer.dll
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\Model_Layer.pdb
+C:\Users\ayarar\source\repos\N-Tier_Forms\Model_Layer\obj\Debug\net6.0\ref\Model_Layer.dll
